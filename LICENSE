@@ -1,0 +1,124 @@
+**Sharia Open Source License (SOSL) - Draft Version 1.0**
+
+**In the name of Allah, the Most Gracious, the Most Merciful.**
+
+**Preamble & Intention**
+
+This Sharia Open Source License (the "License") is based on the principles of Sharia (Islamic Law) as derived from the Holy Qur'an and the Sunnah of Prophet Muhammad (peace and blessings be upon him). It aims to foster a collaborative environment for software development that aligns with Islamic values, promoting benefit (Maslaha), justice ('Adl), and forbidding harm (Darar) and prohibited (Haram) activities.
+
+This License grants broad permissions to use, study, modify, and distribute the Software, with the understanding that all such actions are undertaken in a manner consistent with the tenets of Islam. It is the intention of the Licensor that this Software be used for purposes that are permissible (Halal) and beneficial to humanity.
+
+**IMPORTANT DISCLAIMER:** *This document is a draft template and not a substitute for legal or religious counsel. The Licensor and Contributors provide this Software under these terms, but it is the responsibility of the Licensee to ensure their use of the Software complies with Islamic principles and applicable laws. You are strongly advised to consult with qualified Islamic scholars and legal professionals before adopting or relying on this License.*
+
+---
+
+**Article 1: Definitions**
+
+1.1. **"License"** refers to this Sharia Open Source License document.
+1.2. **"Software"** refers to the computer program, code, documentation, and any associated materials provided under this License.
+1.3. **"Licensor"** refers to the individual(s) or entity(ies) that have the right to grant this License for the Software.
+1.4. **"Contributor"** refers to any individual or entity that contributes to the creation or modification of the Software.
+1.5. **"Licensee"** or **"You"** refers to any individual or entity exercising permissions granted by this License.
+1.6. **"Work"** refers to the Software, or any derivative works thereof, created under this License.
+1.7. **"Sharia"** refers to Islamic Law as derived from its primary sources: the Qur'an and the authentic Sunnah of Prophet Muhammad (peace and blessings be upon him), and understood through established principles of Islamic jurisprudence (Usul al-Fiqh).
+1.8. **"Halal"** refers to that which is permissible under Sharia.
+1.9. **"Haram"** refers to that which is prohibited under Sharia.
+1.10. **"Maslaha"** refers to public interest, benefit, or welfare as recognized by Sharia.
+1.11. **"Darar"** refers to harm, detriment, or injury as recognized by Sharia.
+1.12. **"Kaba'ir"** refers to major sins as understood in Sharia.
+
+**Article 2: Grant of Rights**
+
+2.1. Subject to the terms and conditions of this License, the Licensor hereby grants You a worldwide, royalty-free, non-exclusive, perpetual license to:
+    a. Use the Software for any purpose, provided such purpose is Halal and not aimed at causing Darar.
+    b. Study how the Software works and adapt it to Your needs (reverse engineering is permitted for study and modification in line with Halal purposes).
+    c. Copy and reproduce the Software.
+    d. Modify the Software and create derivative works based upon it.
+    e. Distribute copies of the Software and/or derivative works to others, whether for a fee (covering costs of distribution or service) or free of charge.
+    f. Sublicense the Software, provided that any sublicense is granted under the terms of this License or a compatible license that upholds the core Sharia-based conditions herein.
+
+**Article 3: Conditions of Use (Shurut)**
+
+3.1. **Permissible Use (Halal Conduct):**
+    a. The Software, and any modifications thereof, must not be used for any purpose or in any manner that is considered Haram under Sharia. This includes, but is not limited to, activities such as:
+        i. Promoting or facilitating Shirk (polytheism) or Kufr (disbelief in the core tenets of Islam).
+        ii. Gambling (Maysir).
+        iii. Dealing in Riba (interest).
+        iv. Producing, distributing, or promoting pornographic, obscene, or indecent materials.
+        v. Spreading falsehoods, slander, or defamation (Gheebah, Buhtan).
+        vi. Causing or inciting violence, terrorism, oppression (Zulm), or illegal activities.
+        vii. Deception (Gharar) or fraud in transactions or interactions.
+        viii. Creating or distributing viruses, malware, or tools for illicit hacking.
+        ix. Infringing upon the rights and dignity of others.
+        x. Harming the environment or creation without just cause.
+        xi. Usage or distribution by individuals who openly and persistently engage in Kaba'ir (major sins, such as the consumption of intoxicants like alcohol, adultery, etc.), particularly where such usage or distribution could reasonably be interpreted as an endorsement or normalization of such sins in connection with the Software or its community, or brings the Software into disrepute by association with such conduct. The determination of what constitutes "openly and persistently" and "disrepute" should be guided by clear Sharia principles and community understanding.
+    b. It is the responsibility of the Licensee to ascertain the permissibility of their intended use and their conduct in relation to this License according to their understanding of Sharia, preferably through consultation with knowledgeable scholars. The practical enforcement of Article 3.1.a.xi requires careful consideration and is subject to interpretation based on clear evidence and Sharia guidelines, not mere suspicion or hearsay.
+
+3.2. **Attribution and Integrity:**
+    a. You must retain all original copyright notices, patent notices, trademark notices, and attribution notices included in the Software.
+    b. If You modify the Software, You must add a clear notice stating that You have modified it and the date of modification.
+    c. Modified versions of the Software must also be licensed under the terms of this License, or a compatible license that upholds the core Sharia-based conditions herein.
+
+3.3. **Promotion of Benefit (Maslaha) and Prevention of Harm (Darar):**
+    a. Licensees are encouraged to use the Software in ways that promote Maslaha and benefit the Ummah (Muslim community) and humanity at large.
+    b. The Software must not be used in any way that is intended to cause Darar, injustice, or corruption (Fasad) on earth.
+
+3.4. **No Deception (Gharar) or Exploitation:**
+    a. The Software shall not be used to engage in transactions involving excessive uncertainty (Gharar Fahish) or to exploit others.
+
+3.5. **Compliance with Copyright and Intellectual Property:**
+    a. While this license promotes sharing, it also respects the intellectual efforts of contributors. Any use or distribution must respect the attribution and integrity conditions outlined herein.
+
+**Article 4: Contributions**
+
+4.1. Any Contributions You make to the Software shall be under the terms and conditions of this License, without any additional terms or conditions.
+4.2. You hereby grant to the Licensor and all Licensees a perpetual, worldwide, non-exclusive, royalty-free, irrevocable license to use, reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute Your Contributions and such derivative works, subject to the conditions of this License.
+4.3. You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the rights conveyed by this License.
+
+**Article 5: Disclaimer of Warranty (Bara'a min al-'Ayb)**
+
+5.1. The Software is provided "AS IS," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+5.2. The Licensor and Contributors make no warranty that the Software will be error-free or that access thereto will be continuous or uninterrupted.
+5.3. You understand that You download from, or otherwise obtain content or services through, the Software at Your own discretion and risk.
+
+**Article 6: Limitation of Liability (Tahdid al-Mas'uliyyah)**
+
+6.1. In no event shall the Licensor or Contributors be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software, except to the extent such liability cannot be excluded or limited under applicable law or Sharia principles (e.g., direct and foreseeable harm caused by gross negligence or willful misconduct, subject to Sharia interpretation).
+6.2. This limitation of liability is intended to be interpreted in a manner consistent with Sharia principles, which generally hold individuals accountable for direct and foreseeable damages resulting from their actions (Ta'addi or Tafreet).
+
+**Article 7: Termination (Faskh)**
+
+7.1. This License and the rights granted hereunder will terminate automatically if You fail to comply with any of its terms and conditions, particularly the "Permissible Use (Halal Conduct)" conditions outlined in Article 3.1.
+7.2. Upon termination, You must cease all use, reproduction, modification, and distribution of the Software.
+7.3. Provisions that, by their nature, should survive termination shall survive, including, but not limited to, warranty disclaimers, limitations of liability, and dispute resolution.
+
+**Article 8: Governing Principles & Dispute Resolution**
+
+8.1. This License shall be interpreted in accordance with the principles of Sharia. In case of ambiguity or dispute, reference should be made to the Qur'an, the Sunnah, and the consensus of recognized Islamic scholars (Ijma), giving due consideration to the objectives of Sharia (Maqasid al-Sharia).
+8.2. The parties agree to attempt to resolve any dispute arising out of or in connection with this License amicably through consultation and negotiation in good faith, seeking guidance from individuals knowledgeable in Sharia if necessary.
+8.3. If amicable resolution is not possible, parties may consider arbitration by mutually agreed-upon arbitrators knowledgeable in both Sharia and the subject matter of the dispute, before resorting to secular courts.
+
+**Article 9: Severability**
+
+9.1. If any provision of this License is held to be invalid or unenforceable by a court of competent jurisdiction or by a recognized body of Islamic scholars, such provision shall be reformed to the minimum extent necessary to make it valid and enforceable, and if not reformable, shall be severed from this License. The remainder of the License shall continue in full force and effect, consistent with the original intent and Sharia principles.
+
+**Article 10: No Endorsement**
+
+10.1. Nothing in this License shall be construed as an endorsement by the Licensor or Contributors of any particular Licensee, their products, services, or ideologies, beyond the terms explicitly stated herein.
+
+**Article 11: Versioning and Updates**
+
+11.1. The Licensor may publish revised and/or new versions of the Sharia Open Source License from time to time. Each version will be given a distinguishing version number.
+11.2. Once Software is licensed under a particular version of this License, Licensees may always continue to use it under the terms of that version. Licensees may also choose to use the Software under the terms of any subsequent version of the License published by the Licensor.
+
+**Article 12: Consultation and Further Guidance**
+
+12.1. Licensees are encouraged to seek knowledge and consult with qualified Islamic scholars regarding the ethical and Sharia-compliant use of technology and software. This License is a tool to aid in that endeavor, not a replacement for individual responsibility and scholarly guidance.
+
+---
+
+**Final Admonition (Nasiha):**
+
+Fear Allah (Taqwa) in your use of this Software and in all your affairs. Strive for excellence (Ihsan) and seek the pleasure of Allah. May Allah guide us all to what is right and beneficial.
+
+*Wal-hamdulillahi Rabbil 'alamin.* (All praise is due to Allah, Lord of the worlds.)
